@@ -1,1 +1,3 @@
-# BigBloomWoTBlitz
+# BigBloomBlitz
+
+a template for modding 
